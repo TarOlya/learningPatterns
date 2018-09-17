@@ -1,0 +1,6 @@
+F:\OLGA\универ\ООАиП\проект королевства\MyKingdom\MyKingdom\bin\Debug\MyKingdom.exe
+F:\OLGA\универ\ООАиП\проект королевства\MyKingdom\MyKingdom\bin\Debug\MyKingdom.pdb
+F:\OLGA\универ\ООАиП\проект королевства\MyKingdom\MyKingdom\obj\x86\Debug\MyKingdom.csprojAssemblyReference.cache
+F:\OLGA\универ\ООАиП\проект королевства\MyKingdom\MyKingdom\obj\x86\Debug\MyKingdom.csproj.CoreCompileInputs.cache
+F:\OLGA\универ\ООАиП\проект королевства\MyKingdom\MyKingdom\obj\x86\Debug\MyKingdom.exe
+F:\OLGA\универ\ООАиП\проект королевства\MyKingdom\MyKingdom\obj\x86\Debug\MyKingdom.pdb
