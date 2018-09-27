@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\duck\duck\bin\Debug\duck.exe.config
+C:\Users\Admin\source\repos\duck\duck\bin\Debug\duck.exe
+C:\Users\Admin\source\repos\duck\duck\bin\Debug\duck.pdb
+C:\Users\Admin\source\repos\duck\duck\obj\Debug\duck.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\duck\duck\obj\Debug\duck.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\duck\duck\obj\Debug\duck.exe
+C:\Users\Admin\source\repos\duck\duck\obj\Debug\duck.pdb
